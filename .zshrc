@@ -87,3 +87,5 @@ export http_proxy='http://www-proxy.us.oracle.com:80'
 export HTTP_PROXY='http://www-proxy.us.oracle.com:80'
 export HTTPS_PROXY='http://www-proxy.us.oracle.com:80'
 export https_proxy='http://www-proxy.us.oracle.com:80'
+
+export PATH=$HOME/bin:$PATH
